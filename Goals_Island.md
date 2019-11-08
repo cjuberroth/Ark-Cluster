@@ -3,34 +3,34 @@ The following list will track the goals on The Island. This living list can and 
 
 ---
 ### Goal List
-- [] Set up Oasis Base of Operations
-- [] Perfect resource dinos with imprints
-- [] Tame and breed Rex army
-- [] Tame and breed Megatherium army
-- [] Bosses Defeated
-  - [] Broodmother
-    - [] Gamma
-    - [] Beta
-    - [] Alpha
-  - [] Gigantopithecus
-    - [] Gamma
-    - [] Beta
-    - [] Alpha
-  - [] Dragon
-    - [] Gamma
-    - [] Beta
-    - [] Alpha
-- [] Caves Completed [^1]
-  - [] Cave of the Brute
-  - [] Cave of the Clever
-  - [] Cave of the Cunning
-  - [] Cave of the Devourer
-  - [] Cave of the Hunter
-  - [] Cave of the Immune
-  - [] Cave of the Massive
-  - [] Cave of the Pack
-  - [] Cave of the Skylord
-  - [] Cave of the Strong
-- [] Build the Zoo/Museum
+- [ ] Set up Oasis Base of Operations
+- [ ] Perfect resource dinos with imprints
+- [ ] Tame and breed Rex army
+- [ ] Tame and breed Megatherium army
+- [ ] Bosses Defeated
+  - [ ] Broodmother
+    - [ ] Gamma
+    - [ ] Beta
+    - [ ] Alpha
+  - [ ] Gigantopithecus
+    - [ ] Gamma
+    - [ ] Beta
+    - [ ] Alpha
+  - [ ] Dragon
+    - [ ] Gamma
+    - [ ] Beta
+    - [ ] Alpha
+- [ ] Caves Completed [^1]
+  - [ ] Cave of the Brute
+  - [ ] Cave of the Clever
+  - [ ] Cave of the Cunning
+  - [ ] Cave of the Devourer
+  - [ ] Cave of the Hunter
+  - [ ] Cave of the Immune
+  - [ ] Cave of the Massive
+  - [ ] Cave of the Pack
+  - [ ] Cave of the Skylord
+  - [ ] Cave of the Strong
+- [ ] Build the Zoo/Museum
   
 [^1]: A cave will be considered completed once we have at least three instances of the artifact held within.
