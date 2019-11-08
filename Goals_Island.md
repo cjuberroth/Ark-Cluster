@@ -30,6 +30,10 @@ The following list will track the goals on The Island. This living list can and 
   - [ ] Dragon
     - [ ] Gamma
     - [ ] Beta
+    - [ ] Alpha    
+  - [ ] Overseer
+    - [ ] Gamma
+    - [ ] Beta
     - [ ] Alpha
 - [ ] Build the Zoo/Museum
 
