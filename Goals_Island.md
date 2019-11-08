@@ -20,7 +20,7 @@ The following list will track the goals on The Island. This living list can and 
     - [ ] Gamma
     - [ ] Beta
     - [ ] Alpha
-- [ ] Caves Completed [^1]
+- [ ] Caves Completed
   - [ ] Cave of the Brute
   - [ ] Cave of the Clever
   - [ ] Cave of the Cunning
@@ -33,4 +33,4 @@ The following list will track the goals on The Island. This living list can and 
   - [ ] Cave of the Strong
 - [ ] Build the Zoo/Museum
   
-[^1]: A cave will be considered completed once we have at least three instances of the artifact held within.
+> A cave will be considered completed once we have at least three instances of the artifact held within.
