@@ -32,5 +32,7 @@ The following list will track the goals on The Island. This living list can and 
   - [ ] Cave of the Skylord
   - [ ] Cave of the Strong
 - [ ] Build the Zoo/Museum
-  
+
+---
+
 > A cave will be considered completed once we have at least three instances of the artifact held within.
