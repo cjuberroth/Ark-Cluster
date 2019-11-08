@@ -20,5 +20,3 @@ The following list will track the goals on Extinction. This living list can and 
     - [ ] Alpha
 
 ---
-
-> A cave will be considered completed once we have at least three instances of the artifact held within.
