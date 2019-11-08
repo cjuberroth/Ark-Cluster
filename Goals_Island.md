@@ -7,6 +7,7 @@ The following list will track the goals on The Island. This living list can and 
 - [ ] Perfect resource dinos with imprints
 - [ ] Tame and breed Rex army
 - [ ] Tame and breed Megatherium army
+- [ ] Tame a Titanosaur
 - [ ] Caves Completed
   - [ ] Cave of the Brute
   - [ ] Cave of the Clever
