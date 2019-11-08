@@ -7,6 +7,17 @@ The following list will track the goals on The Island. This living list can and 
 - [ ] Perfect resource dinos with imprints
 - [ ] Tame and breed Rex army
 - [ ] Tame and breed Megatherium army
+- [ ] Caves Completed
+  - [ ] Cave of the Brute
+  - [ ] Cave of the Clever
+  - [ ] Cave of the Cunning
+  - [ ] Cave of the Devourer
+  - [ ] Cave of the Hunter
+  - [ ] Cave of the Immune
+  - [ ] Cave of the Massive
+  - [ ] Cave of the Pack
+  - [ ] Cave of the Skylord
+  - [ ] Cave of the Strong
 - [ ] Bosses Defeated
   - [ ] Broodmother
     - [ ] Gamma
@@ -20,17 +31,6 @@ The following list will track the goals on The Island. This living list can and 
     - [ ] Gamma
     - [ ] Beta
     - [ ] Alpha
-- [ ] Caves Completed
-  - [ ] Cave of the Brute
-  - [ ] Cave of the Clever
-  - [ ] Cave of the Cunning
-  - [ ] Cave of the Devourer
-  - [ ] Cave of the Hunter
-  - [ ] Cave of the Immune
-  - [ ] Cave of the Massive
-  - [ ] Cave of the Pack
-  - [ ] Cave of the Skylord
-  - [ ] Cave of the Strong
 - [ ] Build the Zoo/Museum
 
 ---
